@@ -265,7 +265,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.png);
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -866,6 +866,6 @@ body {
     float: left;
     width: 188px;
     height: 92px;
-    background: url("../img/logos/logo.png") 0 0 no-repeat; 
+    background: url("../img/logos/logo.png") 0 0 no-repeat;
 
 }
